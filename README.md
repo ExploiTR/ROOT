@@ -6,3 +6,7 @@ Most lightest ROOT access checker app
 2.lightest package size (no unusual UI enhancements/ unusual code)
 
 *There are many ROOT Checker apps are available in the market now with 100x enhancements than ROOT, but I think ROOT isn't just a "Hello World" app*
+
+#LICENSE
+
+Licensed under Apache License (Version 2.0, January 2004)
