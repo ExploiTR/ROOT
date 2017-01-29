@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ROOT</string>
+    <string name="action_info">More Information</string>
+    <string name="sample">notext</string>
+    <string name="chkroot">Check ROOT</string>
+    <string name="modeltext">MODEL :</string>
+    <string name="boardtext">BOARD :</string>
+    <string name="brandtext">BRAND :</string>
+    <string name="cputext">CPU :</string>
+    <string name="displaytext">DISPLAY :</string>
+    <string name="fingerprinttext">FINGERPRINT :</string>
+    <string name="hardwaretext">HARDWARE :</string>    
+    <string name="hosttext">HOST :</string>
+    <string name="idtext">ID :</string>
+    <string name="producttext">PRODUCT :</string>    
+    <string name="radiotext">RADIO :</string>
+    <string name="serialtext">SERIAL :</string>
+    <string name="typetext">TYPE :</string>
+    <string name="device_">Device :</string>
+
+
+</resources>
