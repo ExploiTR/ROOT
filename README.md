@@ -1,5 +1,5 @@
 # ROOT
-Most lightest ROOT access checker app
+The Lightest ROOT access checker app
 
 #FEATURES
 1.Instant ROOT Check
