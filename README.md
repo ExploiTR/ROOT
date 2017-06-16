@@ -1,7 +1,7 @@
 ![ALT TEXT](https://raw.githubusercontent.com/ExploiTR/ROOT/master/res/drawable/ic_launcher.png)
 
 
-#@DEPRECATED
+# @DEPRECATED
 
 ## ROOT
 The Lightest ROOT access checker app
